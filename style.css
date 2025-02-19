@@ -1,4 +1,4 @@
-/* Resetando as margens e o preenchimento padrão */
+
 * {
     margin: 0;
     padding: 0;
@@ -7,8 +7,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f1e3; /* Bege suave */
-    color: #3e2c1c; /* Marrom escuro */
+    background-color: #f5f1e3;
+    color: #3e2c1c;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,38 +16,38 @@ body {
     line-height: 1.6;
 }
 
-/* Container principal */
+
 .container {
     text-align: center;
-    background-color: #d1b29b; /* Marrom claro */
+    background-color: #d1b29b; 
     border-radius: 10px;
     padding: 20px;
     width: 90%;
     max-width: 800px;
 }
 
-/* Estilo para o título principal */
+
 header h1 {
     font-size: 2.5rem;
-    color: #4f3626; /* Marrom escuro */
+    color: #4f3626; 
     margin-bottom: 20px;
 }
 
-/* Estilo para os subtítulos */
+
 h2 {
     font-size: 2rem;
     color: #4f3626;
     margin-bottom: 15px;
 }
 
-/* Estilo para os parágrafos */
+
 p {
     font-size: 1.1rem;
     color: #3e2c1c;
     margin-bottom: 20px;
 }
 
-/* Estilo para o footer */
+
 footer h3, footer p {
     font-size: 1.2rem;
     color: #3e2c1c;
